@@ -9,7 +9,7 @@ import cv2
 import re
 
 # Adapter ce chemin si besoin
-pytesseract.pytesseract.tesseract_cmd = "/opt/homebrew/bin/tesseract" 
+#pytesseract.pytesseract.tesseract_cmd = "/opt/homebrew/bin/tesseract" 
 
 st.set_page_config(layout="wide")
 
